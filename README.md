@@ -1,6 +1,6 @@
 # `Learn-Keras`
 
-This repository contains material about pytorch from scratch to advanced. It consists of notebooks as well as python file for various deep learning topics. In most cases, the notebooks lead you through implementing models such as Linear Regression, Fully connected neural networks, Convolutional neural networks(CNN), recurrent neural networks(RNN), and GANs. There are other topics covered such as weight initialization and batch normalization.
+This repository contains material about Keras from scratch to advanced. It consists of notebooks as well as python file for various deep learning topics. In most cases, the notebooks lead you through implementing models such as Linear Regression, Fully connected neural networks, Convolutional neural networks(CNN), recurrent neural networks(RNN), and GANs. There are other topics covered such as weight initialization and batch normalization.
 
 
 
